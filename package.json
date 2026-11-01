@@ -1,0 +1,74 @@
+{
+  "name": "fantasy-watchapp",
+  "author": "Barezin78",
+  "version": "1.0.2",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "^1.0.4"
+  },
+  "pebble": {
+    "displayName": "Fantasy",
+    "uuid": "256d5508-4cab-487a-a8e5-7c269abc4585",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "basalt",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "REQUEST",
+      "ERR",
+      "SYNC",
+      "WEEK",
+      "STATE",
+      "TS",
+      "N_LEAGUES",
+      "L_I",
+      "L_NAME",
+      "L_ABBR",
+      "L_MY_NAME",
+      "L_OPP_NAME",
+      "L_MY_PTS",
+      "L_OPP_PTS",
+      "L_MY_PROJ",
+      "L_OPP_PROJ",
+      "L_W",
+      "L_L",
+      "L_RANK",
+      "L_N",
+      "L_WP",
+      "L_STATE",
+      "L_MY_LEFT",
+      "L_OPP_LEFT",
+      "L_NS",
+      "L_NT",
+      "S_I",
+      "S_SLOT",
+      "S_NAME",
+      "S_PTS",
+      "S_TEAM",
+      "S_ST",
+      "S_SUB",
+      "T_I",
+      "T_RANK",
+      "T_NAME",
+      "T_W",
+      "T_L",
+      "T_PF",
+      "T_ME"
+    ],
+    "resources": {
+      "media": []
+    },
+    "capabilities": [
+      "configurable"
+    ]
+  }
+}

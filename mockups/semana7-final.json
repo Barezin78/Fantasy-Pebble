@@ -1,0 +1,524 @@
+{
+  "LA": {
+    "nome": "Liga Alfa",
+    "sigla": "LA",
+    "times": 12,
+    "eu": {
+      "time": "Blue Comets",
+      "pts": 88.44,
+      "proj": 95.5,
+      "rec": "4-2",
+      "rank": 3,
+      "tit": [
+        {
+          "slot": "QB",
+          "nome": "A. Nova",
+          "time": "NE",
+          "pts": 28.44,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "B. River",
+          "time": "BAL",
+          "pts": 4.8,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "C. Stone",
+          "time": "GB",
+          "pts": 4.5,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "D. Sky",
+          "time": "DAL",
+          "pts": 13.7,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "E. Lake",
+          "time": "DET",
+          "pts": 23.6,
+          "estado": "post"
+        },
+        {
+          "slot": "TE",
+          "nome": "F. Hill",
+          "time": "SF",
+          "pts": 9.8,
+          "estado": "post"
+        },
+        {
+          "slot": "FLX",
+          "nome": "G. Park",
+          "time": "PIT",
+          "pts": 6.6,
+          "estado": "post"
+        },
+        {
+          "slot": "K",
+          "nome": "H. Moon",
+          "time": "SF",
+          "pts": 8.0,
+          "estado": "post"
+        },
+        {
+          "slot": "DEF",
+          "nome": "CAR",
+          "time": "CAR",
+          "pts": -3.0,
+          "estado": "post"
+        }
+      ]
+    },
+    "adv": {
+      "time": "Pixel Foxes",
+      "pts": 81.2,
+      "proj": 90.1,
+      "rec": "5-1",
+      "rank": 1,
+      "tit": [
+        {
+          "slot": "QB",
+          "nome": "A. Nova",
+          "time": "NE",
+          "pts": 28.44,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "B. River",
+          "time": "BAL",
+          "pts": 4.8,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "C. Stone",
+          "time": "GB",
+          "pts": 4.5,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "D. Sky",
+          "time": "DAL",
+          "pts": 13.7,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "E. Lake",
+          "time": "DET",
+          "pts": 23.6,
+          "estado": "post"
+        },
+        {
+          "slot": "TE",
+          "nome": "F. Hill",
+          "time": "SF",
+          "pts": 9.8,
+          "estado": "post"
+        },
+        {
+          "slot": "FLX",
+          "nome": "G. Park",
+          "time": "PIT",
+          "pts": 6.6,
+          "estado": "post"
+        },
+        {
+          "slot": "K",
+          "nome": "H. Moon",
+          "time": "SF",
+          "pts": 8.0,
+          "estado": "post"
+        },
+        {
+          "slot": "DEF",
+          "nome": "CAR",
+          "time": "CAR",
+          "pts": -3.0,
+          "estado": "post"
+        }
+      ]
+    },
+    "standings": [
+      {
+        "name": "Pixel Foxes",
+        "rank": 1,
+        "w": 5,
+        "l": 0,
+        "pf": 900,
+        "me": 0,
+        "team": "Pixel Foxes",
+        "owner": "manager_0"
+      },
+      {
+        "name": "Neon Owls",
+        "rank": 2,
+        "w": 5,
+        "l": 0,
+        "pf": 875,
+        "me": 0,
+        "team": "Neon Owls",
+        "owner": "manager_1"
+      },
+      {
+        "name": "Blue Comets",
+        "rank": 3,
+        "w": 4,
+        "l": 1,
+        "pf": 850,
+        "me": 1,
+        "team": "Blue Comets",
+        "owner": "demo"
+      },
+      {
+        "name": "Solar Sharks",
+        "rank": 4,
+        "w": 4,
+        "l": 1,
+        "pf": 825,
+        "me": 0,
+        "team": "Solar Sharks",
+        "owner": "manager_3"
+      },
+      {
+        "name": "Jade Dragons",
+        "rank": 5,
+        "w": 3,
+        "l": 2,
+        "pf": 800,
+        "me": 0,
+        "team": "Jade Dragons",
+        "owner": "manager_4"
+      },
+      {
+        "name": "Iron Wolves",
+        "rank": 6,
+        "w": 3,
+        "l": 2,
+        "pf": 775,
+        "me": 0,
+        "team": "Iron Wolves",
+        "owner": "manager_5"
+      },
+      {
+        "name": "Copper Hawks",
+        "rank": 7,
+        "w": 2,
+        "l": 3,
+        "pf": 750,
+        "me": 0,
+        "team": "Copper Hawks",
+        "owner": "manager_6"
+      },
+      {
+        "name": "Silver Lynx",
+        "rank": 8,
+        "w": 2,
+        "l": 3,
+        "pf": 725,
+        "me": 0,
+        "team": "Silver Lynx",
+        "owner": "manager_7"
+      },
+      {
+        "name": "Amber Bears",
+        "rank": 9,
+        "w": 1,
+        "l": 4,
+        "pf": 700,
+        "me": 0,
+        "team": "Amber Bears",
+        "owner": "manager_8"
+      },
+      {
+        "name": "Coral Crabs",
+        "rank": 10,
+        "w": 1,
+        "l": 4,
+        "pf": 675,
+        "me": 0,
+        "team": "Coral Crabs",
+        "owner": "manager_9"
+      },
+      {
+        "name": "Maple Moose",
+        "rank": 11,
+        "w": 1,
+        "l": 5,
+        "pf": 650,
+        "me": 0,
+        "team": "Maple Moose",
+        "owner": "manager_10"
+      },
+      {
+        "name": "Quartz Quokkas",
+        "rank": 12,
+        "w": 1,
+        "l": 5,
+        "pf": 625,
+        "me": 0,
+        "team": "Quartz Quokkas",
+        "owner": "manager_11"
+      }
+    ]
+  },
+  "LB": {
+    "nome": "Liga Beta",
+    "sigla": "LB",
+    "times": 10,
+    "eu": {
+      "time": "Blue Comets",
+      "pts": 72.1,
+      "proj": 85.0,
+      "rec": "3-3",
+      "rank": 5,
+      "tit": [
+        {
+          "slot": "QB",
+          "nome": "I. Spark",
+          "time": "LV",
+          "pts": 20.4,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "J. Dash",
+          "time": "IND",
+          "pts": 18.0,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "K. Bolt",
+          "time": "HOU",
+          "pts": 8.6,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "L. Beam",
+          "time": "DAL",
+          "pts": 13.7,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "M. Wave",
+          "time": "ARI",
+          "pts": 8.6,
+          "estado": "post"
+        },
+        {
+          "slot": "TE",
+          "nome": "N. Grove",
+          "time": "PIT",
+          "pts": 3.0,
+          "estado": "post"
+        },
+        {
+          "slot": "FLX",
+          "nome": "O. Field",
+          "time": "PIT",
+          "pts": 4.2,
+          "estado": "post"
+        },
+        {
+          "slot": "K",
+          "nome": "P. Kick",
+          "time": "IND",
+          "pts": 4.0,
+          "estado": "post"
+        },
+        {
+          "slot": "DEF",
+          "nome": "CLE",
+          "time": "CLE",
+          "pts": 6.0,
+          "estado": "post"
+        }
+      ]
+    },
+    "adv": {
+      "time": "Neon Owls",
+      "pts": 79.8,
+      "proj": 88.2,
+      "rec": "5-1",
+      "rank": 1,
+      "tit": [
+        {
+          "slot": "QB",
+          "nome": "I. Spark",
+          "time": "LV",
+          "pts": 20.4,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "J. Dash",
+          "time": "IND",
+          "pts": 18.0,
+          "estado": "post"
+        },
+        {
+          "slot": "RB",
+          "nome": "K. Bolt",
+          "time": "HOU",
+          "pts": 8.6,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "L. Beam",
+          "time": "DAL",
+          "pts": 13.7,
+          "estado": "post"
+        },
+        {
+          "slot": "WR",
+          "nome": "M. Wave",
+          "time": "ARI",
+          "pts": 8.6,
+          "estado": "post"
+        },
+        {
+          "slot": "TE",
+          "nome": "N. Grove",
+          "time": "PIT",
+          "pts": 3.0,
+          "estado": "post"
+        },
+        {
+          "slot": "FLX",
+          "nome": "O. Field",
+          "time": "PIT",
+          "pts": 4.2,
+          "estado": "post"
+        },
+        {
+          "slot": "K",
+          "nome": "P. Kick",
+          "time": "IND",
+          "pts": 4.0,
+          "estado": "post"
+        },
+        {
+          "slot": "DEF",
+          "nome": "CLE",
+          "time": "CLE",
+          "pts": 6.0,
+          "estado": "post"
+        }
+      ]
+    },
+    "standings": [
+      {
+        "name": "Neon Owls",
+        "rank": 1,
+        "w": 5,
+        "l": 0,
+        "pf": 900,
+        "me": 0,
+        "team": "Neon Owls",
+        "owner": "manager_0"
+      },
+      {
+        "name": "Pixel Foxes",
+        "rank": 2,
+        "w": 5,
+        "l": 0,
+        "pf": 875,
+        "me": 0,
+        "team": "Pixel Foxes",
+        "owner": "manager_1"
+      },
+      {
+        "name": "Solar Sharks",
+        "rank": 3,
+        "w": 4,
+        "l": 1,
+        "pf": 850,
+        "me": 0,
+        "team": "Solar Sharks",
+        "owner": "manager_2"
+      },
+      {
+        "name": "Jade Dragons",
+        "rank": 4,
+        "w": 4,
+        "l": 1,
+        "pf": 825,
+        "me": 0,
+        "team": "Jade Dragons",
+        "owner": "manager_3"
+      },
+      {
+        "name": "Blue Comets",
+        "rank": 5,
+        "w": 3,
+        "l": 2,
+        "pf": 800,
+        "me": 1,
+        "team": "Blue Comets",
+        "owner": "demo"
+      },
+      {
+        "name": "Iron Wolves",
+        "rank": 6,
+        "w": 3,
+        "l": 2,
+        "pf": 775,
+        "me": 0,
+        "team": "Iron Wolves",
+        "owner": "manager_5"
+      },
+      {
+        "name": "Copper Hawks",
+        "rank": 7,
+        "w": 2,
+        "l": 3,
+        "pf": 750,
+        "me": 0,
+        "team": "Copper Hawks",
+        "owner": "manager_6"
+      },
+      {
+        "name": "Silver Lynx",
+        "rank": 8,
+        "w": 2,
+        "l": 3,
+        "pf": 725,
+        "me": 0,
+        "team": "Silver Lynx",
+        "owner": "manager_7"
+      },
+      {
+        "name": "Amber Bears",
+        "rank": 9,
+        "w": 1,
+        "l": 4,
+        "pf": 700,
+        "me": 0,
+        "team": "Amber Bears",
+        "owner": "manager_8"
+      },
+      {
+        "name": "Coral Crabs",
+        "rank": 10,
+        "w": 1,
+        "l": 4,
+        "pf": 675,
+        "me": 0,
+        "team": "Coral Crabs",
+        "owner": "manager_9"
+      }
+    ]
+  }
+}

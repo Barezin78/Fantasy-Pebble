@@ -1,0 +1,15 @@
+build/
+node_modules/
+.lock-waf*
+*.pbw
+!dist/*.pbw
+.DS_Store
+*.pyc
+__pycache__/
+.pypkjs*
+
+# Dados pessoais / cache
+cache/
+*.pdb
+config.local.json
+personal/
